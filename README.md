@@ -132,5 +132,13 @@ Open a new Terminal window and do the following steps:
         ```
 
 
+If you followed the steps correctly you should see the following when you run your react application:
+[![Result](resources/result1.png)]()  
 
+Once clicked on `Add Rectangle!` button you should see the follwoing:
+[![Result](resources/result2.png)]()  
 
+NOTE: colors may be different!
+
+Once clicked on `Add Rectangle!` button again, you should see the follwoing:
+[![Result](resources/result3.png)]()  
